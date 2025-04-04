@@ -1,0 +1,8 @@
+1. go to app.py and run it
+else
+
+if creating by yourself a new one then
+
+1.collect image.py
+2.train.py
+3.app.py
